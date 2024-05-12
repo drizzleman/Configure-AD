@@ -66,10 +66,13 @@ Download Active Directory on DC1 by selecting add roles and features and click d
 If you want you can create a admin user to add to the domain so you can login as the user in the Domain Controller. When added to the domain user will be able to make changes such as adding new accounts.
 </p>
 <br />
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="959" alt="image" src="https://github.com/drizzleman/Configure-AD/assets/166667455/94060ea0-4c96-47d4-bb9b-f13b78c88d66">
+
 </p>
 <p>
+  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
