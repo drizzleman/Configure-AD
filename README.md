@@ -35,7 +35,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Download Active Directory on DC1 by selecting add roles and features and click domian services. When installation is finished click flag in right corner and promote this server to a domain controller and add a new forest name.
 </p>
 <br />
 
