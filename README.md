@@ -63,7 +63,7 @@ Download Active Directory on DC1 by selecting add roles and features and click d
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+If you want you can create a admin user to add to the domain so you can login as the user in the Domain Controller. When added to the domain user will be able to make changes such as adding new accounts.
 </p>
 <br />
 <p>
