@@ -43,8 +43,7 @@ Download Active Directory on DC1 by selecting add roles and features and click d
 <img width="425" alt="image" src="https://github.com/drizzleman/Configure-AD/assets/166667455/0daffff5-7114-4f79-8676-c42299581104">
 
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p> When AD restarts you will login with the fully qualified domain name (FQDN) as shown in the photo above.
 </p>
 <br />
 
