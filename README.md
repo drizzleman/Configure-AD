@@ -53,8 +53,7 @@ Download Active Directory on DC1 by selecting add roles and features and click d
 
 </p>
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p> When logged backed in to DC1 click tools and go to AD users and computers.Next you will right click mydomain.com click new and create two new organizational units.
 </p>
 <br />
 <p>
