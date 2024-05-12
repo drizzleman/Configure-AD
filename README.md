@@ -73,7 +73,7 @@ If you want you can create a admin user to add to the domain so you can login as
 </p>
 <p>
   
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+If you want create mulitiple active users at once you can find or create and run it as a powershell script. Open PowershellISE an adminsistrator, click new script and run the script as you will see names starting to be generated in powershell.
 </p>
 <br />
 <p>
