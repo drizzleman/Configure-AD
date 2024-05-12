@@ -81,6 +81,6 @@ If you want create mulitiple active users at once you can find or create and run
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In Active Directory Users and Computers you can see all the users created under the mydomain.com by clicking the _EMPLOYEES folder. If you want you can choose a random user names and login in as one you can in the Client1 VM because they are all added to the domain.
 </p>
 <br />
